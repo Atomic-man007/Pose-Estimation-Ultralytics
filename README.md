@@ -24,8 +24,7 @@ At its core, the project employs state-of-the-art pose estimation models that ha
 
 # Example sample video
 
-<iframe width="560" height="315" src="resources/sample-video.mp4" frameborder="0" allowfullscreen></iframe>
-()
+![gif](resources/sample-gif.gif)
 
 ## Getting Started
 
