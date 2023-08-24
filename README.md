@@ -20,10 +20,10 @@ At its core, the project employs state-of-the-art pose estimation models that ha
 
 # Example sample Image
 
-![Alt text](resources/sample.png)
+![img](resources/sample.png)
 
 # Example sample video
-
+![video](resources/sample-video.mp4)
 ## Getting Started
 
 To get started with Ultralytics Pose Detection, follow these steps:
