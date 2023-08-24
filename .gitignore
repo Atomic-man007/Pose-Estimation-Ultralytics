@@ -29,7 +29,7 @@ share/python-wheels/
 MANIFEST
 
 #code
-controlnet.py
+pose-detection-test.ipynb
 
 
 # PyInstaller
@@ -133,7 +133,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-.test
+
 # Spyder project settings
 .spyderproject
 .spyproject
