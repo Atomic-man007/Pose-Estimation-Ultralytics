@@ -40,6 +40,21 @@ To get started with Ultralytics Pose Detection, follow these steps:
 
 3. **Explore and Experiment**: Dive into the provided codebase and models. You can utilize pre-trained models or train your own depending on your specific use case. Experiment with different images and scenarios to witness the power of pose detection.
 
+# Fast API
+
+Try the Img and Video API for pose detection
+
+Run the API file with the following command
+
+```
+uvicorn pose-fastapi:app --reload
+```
+
+visit to the below link once you run the code
+`http://127.0.0.1:8000/docs`
+
+Hurray try the APIs in swagger UI
+
 ## Conclusion
 
 Ultralytics Pose Detection pre-trained model opens doors to a realm of possibilities within computer vision. From understanding human gestures to improving robotics, the applications are vast and exciting. Join us on this journey of exploring and harnessing the capabilities of pose estimation for a myriad of real-world applications.
